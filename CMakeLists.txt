@@ -3,4 +3,4 @@ project(EricImportParse)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(EricImportParse main.cpp)
+add_executable(EricImportParse main.cpp Record.cpp Record.cpp Record.h)
